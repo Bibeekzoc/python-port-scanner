@@ -1,5 +1,0 @@
-# Standard library only for connect (TCP) and udp scan modes.
-# scapy is required for -m syn (raw-socket SYN scanning):
-scapy>=2.5.0
-
-# Requires Python 3.10+
