@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Scan output (don't commit scan results by default)
+results/*.json
+results/*.txt
+!results/.gitkeep
+
+# OS/editor cruft
+.DS_Store
+.vscode/
